@@ -1,4 +1,4 @@
-![SCHOOL SPORTS AUTOMATIC GENERATOR](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
+![SCHOOL SPORTS AUTOMATIC GENERATOR](https://raw.githubusercontent.com/starttolearning/ymsportsystem/main/ymsportsystem.png)
 
 # SCHOOL SPORTS AUTOMATIC GENERATOR
 
