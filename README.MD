@@ -1,4 +1,6 @@
-# YMSPORTS RANK AND ADDER
+![SCHOOL SPORTS AUTOMATIC GENERATOR](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
+
+# SCHOOL SPORTS AUTOMATIC GENERATOR
 
 A simple program to process spreadsheet and output the distribute socre in each class and ranked top 3/4.
 
